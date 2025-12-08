@@ -8,3 +8,5 @@ Features live video, hover interactions, animations, and a scrolling honours rib
 ## 🌐 Live Demo
 
 https://gparthiv.github.io/GOAT/
+
+<img src="demo.gif" width="50%" height="auto" />
